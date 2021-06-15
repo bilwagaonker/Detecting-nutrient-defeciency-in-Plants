@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 String apiWritekey = "LPM9CIZQ0H6G4WT9"; 
-const char* ssid = "OnePlus 6T";
-const char* password = "bilwa1234" ;
+const char* ssid = "********"; //add your wifi/hotspot name
+const char* password = "*********" ; // password to access the wifi
 
 const char* server = "api.thingspeak.com";
 float resolution=3.3/1023;
